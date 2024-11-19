@@ -1,0 +1,22 @@
+site_name: Dream Blog
+site_url: https://mydomain.org/blog
+site_description: A blog about dreams and their meanings.
+theme:
+  name: material
+  palette:
+    primary: black
+    scheme: slate
+  locale: en
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  features:
+    - navigation.expand
+
+plugins:
+  - search
+  - autorefs
+
+markdown_extensions:
+  - toc:
+      permalink: true
