@@ -1,5 +1,5 @@
 site_name: Dream Blog
-site_url: https://blog-git-main-pskdreams-projects.vercel.app/blog
+site_url: https://blog-git-main-pskdreams-projects.vercel.app
 site_description: A blog about dreams and their meanings.
 theme:
   name: material
